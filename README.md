@@ -44,7 +44,7 @@
 ## Inspired by 
 > [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
 > 
-[Flat](https://xxyxyz.org/flat) + [Bezmerizing](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화
+[Flat](https://xxyxyz.org/flat) + [Bezmerizing](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화 & 디자인
 
 
 
