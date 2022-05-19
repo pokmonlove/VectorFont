@@ -34,7 +34,7 @@
 ④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br>
 
 ## Used Fonts
-* [NanumSquare.ttf](https://hangeul.naver.com/2021/fonts/nanum)
+* [NanumSquareEB.ttf](https://hangeul.naver.com/2021/fonts/nanum)
 * [TmoneyRoundWindExtraBold.ttf](https://www.tmoney.co.kr/aeb/cmnctn/ci/ci.dev)
 
 ## Inspired by 
