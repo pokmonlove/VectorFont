@@ -1,6 +1,4 @@
-# 🚩학제간IT융합프로젝트 (2022 Spring)
-> 숙명여자대학교 대학원  | MINTLAB | 팀 오토폰트 | 김남희, 박동연, 조세란
-## 🌤 기상정보에 따른 한글 폰트 스타일 자동 생성 
+# 🌤 기상정보에 따른 한글 폰트 스타일 자동 생성
 > 폰트 벡터화를 통한 디자인 변형 기술을 적용하여 텍스트를 보다 자유롭게 꾸미고 감성을 풍부하게 전달하고자 합니다.
 
 ## 프로젝트 요약
@@ -27,24 +25,27 @@
 * 먼지
 
 ## 폰트 벡터화 및 디자인 과정
-① 디자인할 글자와 폰트를 불러옵니다. <br><br>
-<img width="15%" src="https://user-images.githubusercontent.com/70003514/169102645-94261a70-64be-4ac9-80af-ff4335ff04c4.png"/>
 
-② 불러온 글자를 벡터화시켜 글리프 묶음으로 변환합니다. <br><br>
-<img width="15%" src="https://user-images.githubusercontent.com/70003514/169102891-c6f577b5-0c40-4a0e-9f1e-4cc428bcb3e5.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/70003514/169249536-c7fe95c8-1c0c-4538-993a-35ef6e5573d7.png"/>
 
-③ 글자를 이루는 각 글리프들의 방향을 알아냅니다. <br><br>
-<img width="15%" src="https://user-images.githubusercontent.com/70003514/169103006-473ff97a-48cf-49ca-b772-d022234b8f8d.png"/>
+① 디자인할 글자와 폰트를 불러옵니다. <br>
+② 불러온 글자를 벡터화시켜 글리프 묶음으로 변환합니다. <br>
+③ 글자를 이루는 각 글리프들의 방향을 알아냅니다. <br>
+④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br>
 
-④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br><br>
-<img width="15%" src="https://user-images.githubusercontent.com/70003514/169103368-cd410a6c-7826-4bc5-9b78-5dbfe0046f64.png"/>
-
+## Used Fonts
+* [NanumSquare.ttf](https://hangeul.naver.com/2021/fonts/nanum)
+* [TmoneyRoundWindExtraBold.ttf](https://www.tmoney.co.kr/aeb/cmnctn/ci/ci.dev)
 
 ## Inspired by 
-> [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
-> 
+ [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
+
 [Flat](https://xxyxyz.org/flat) + [Bezmerizing](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화 & 디자인
 
-
+## Authors
+숙명여자대학교 대학원  | MINTLAB | 팀 오토폰트
+* [김남희](https://github.com/pokmonlove) | 📧 kelly9455@sookmyung.ac.kr
+* [박동연](https://github.com/DyeonPark) | 📧 yeon0729@sookmyung.ac.kr
+* [조세란](https://github.com/shooshoo0329) | 📧 shooshoo329@sookmyung.ac.kr
 
 
