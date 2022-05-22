@@ -1,20 +1,20 @@
 
 <h1 align="center"> 
 🌦 날씨에 따른 한글 폰트 윤곽선 벡터 변형 알고리즘
-</h4>
+</h1>
 
-<h1 align="center"> 
- 
- ![image](https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png)
 
-</h4>
 
-## 📕 프로젝트 배경 및 목적
+## 📕 프로젝트 요약
+ <img width="33%" src="https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png"/>
+
+
+## 📗 프로젝트 배경 및 목적
 * 상황 정보에 따라 바뀔 수 있는 벡터 폰트 기반의 한글 폰트 변형 기술의 개발 필요성
 * 기존의 래스터 이미지가 아닌 벡터 데이터로 폰트를 변형하는 기술의 필요
 * 폰트 벡터화를 통한 디자인 변형 기술을 적용하여 **텍스트를 보다 자유롭게 꾸미고 감성을 풍부하게 전달하고자 함**
 
-## 📗 프로젝트 목표 
+## 📘 프로젝트 목표 
 * **벡터 데이터 기반의 디자인 기술 활용**
   * 디자인을 자유롭게 조작할 수 있도록 폰트를 벡터화 후 변형 필요
   * 아웃라인(글리프)을 추출하여 다양한 디자인을 적용할 수 있는 방법을 시도하고자 함 
@@ -22,16 +22,20 @@
   * 미세먼지 농도, 자외선 농도와 같은 구체적인 기상 수치 정보를 활용
   * 각 데이터가 대표하는 날씨의 감성이 잘 반영되도록 스타일 설계
 
-
 ## 🌞 대표 디자인
+|구름|습도|눈|
+|:---:|:---:|:---:|
+|&nbsp;&nbsp;<img width="90%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>&nbsp;&nbsp;|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>|<img width="60%" src="https://user-images.githubusercontent.com/70003514/169718364-fb2dd368-80ad-48c2-8cfe-40f5a057af89.png"/>|
+| 뭉게뭉게 부풀어오른 구름을 표현|습도가 높을 때의 끈적거림을 표현|눈과 눈사람이 동그랗게 쌓인 모습을 표현|
+
 ### 1. 구름 ☁
 > 뭉게뭉게 부풀어오른 구름을 표현
 > 
-<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>
 
 ### 2. 습도 😓
 > 습도가 높을 때의 끈적거림을 살려 디자인
-> 
+
 <img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>
 
 
