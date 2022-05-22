@@ -13,8 +13,11 @@
 > 습도가 높을 때의 끈적거림을 살려 디자인
 <img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>
 
-### 3. 다른 대표 벡터 디자인
-> ....
+### 3. 눈 🌨
+> 눈이 동그랗게 쌓인 모습과 하단 눈사람 모양의 글리프로 눈이 쌓인 모습을 표현 
+> 
+[<img width="40%" src="https://user-images.githubusercontent.com/70003514/169710348-0159f34f-59a5-45ba-b99c-e0752055e86c.png"/>](https://github.com/pokmonlove/VectorFont/blob/aa7024417bbf73f3e263d6d9c064521397808453/Vectorfont/vectorfont_snow.ipynb)
+
 
 ## 그 외 다양한 벡터 디자인
 * 자외선
@@ -25,7 +28,6 @@
 * 먼지
 
 ## 폰트 벡터화 및 디자인 과정
-
 <img width="100%" src="https://user-images.githubusercontent.com/70003514/169249536-c7fe95c8-1c0c-4538-993a-35ef6e5573d7.png"/>
 
 ① 디자인할 글자와 폰트를 불러옵니다. <br>
