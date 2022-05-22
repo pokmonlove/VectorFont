@@ -38,14 +38,25 @@
 <img width="100%" src="https://user-images.githubusercontent.com/70003514/169249536-c7fe95c8-1c0c-4538-993a-35ef6e5573d7.png"/>
 
 ① 디자인할 글자와 폰트를 불러옵니다. <br>
+```python
+f = font.open("fonts/font_file_name.ttf")
+```
 ② 불러온 글자를 벡터화시켜 글리프 묶음으로 변환합니다. <br>
+```python
+f = font.open("fonts/font_file_name.ttf")
+```
 ③ 글자를 이루는 각 글리프들의 방향을 알아냅니다. <br>
 ④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br>
 
 ## 사용한 폰트
 * [NanumSquareEB.ttf](https://hangeul.naver.com/2021/fonts/nanum)
 * [TmoneyRoundWindExtraBold.ttf](https://www.tmoney.co.kr/aeb/cmnctn/ci/ci.dev)
-
+## Install
+이 프로젝트는 [`Bezmerizing`](https://github.com/aparrish/bezmerizing/) 라이브러리를 사용합니다.
+```python
+import sys
+!{sys.executable} -m pip install --upgrade https://github.com/aparrish/bezmerizing/archive/master.zip
+```
 ## Inspired by 
  [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
 
