@@ -8,7 +8,7 @@
 ### 1. 구름 ☁
 > 뭉게뭉게 부풀어오른 구름을 표현
 > 
-[<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>](https://github.com/pokmonlove/VectorFont/blob/adcb5601ec50c1e4122134644a6426b65742aa87/Vectorfont/vectorfont_cloud.ipynb)
+[<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>](Vectorfont/vectorfont_cloud.ipynb)
 ◀  click!
 
 
