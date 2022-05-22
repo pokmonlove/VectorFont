@@ -7,16 +7,21 @@
 ## 대표 벡터 디자인
 ### 1. 구름 ☁
 > 뭉게뭉게 부풀어오른 구름을 표현
-<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>
+[img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>]()
+◀  click!
+
 
 ### 2. 습도 😓
 > 습도가 높을 때의 끈적거림을 살려 디자인
-<img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>
+> 
+[<img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>](https://github.com/pokmonlove/VectorFont/blob/794e377e98f7f061f18de4b074348bfab06a1f4d/Vectorfont/vectorfont_humidity.ipynb)◀  click!
+
 
 ### 3. 눈 🌨
-> 눈이 동그랗게 쌓인 모습과 하단 눈사람 모양의 글리프로 눈이 쌓인 모습을 표현 
+> 눈사람과 눈이 동그랗게 쌓인 모습을 표현
 > 
 [<img width="40%" src="https://user-images.githubusercontent.com/70003514/169710348-0159f34f-59a5-45ba-b99c-e0752055e86c.png"/>](https://github.com/pokmonlove/VectorFont/blob/aa7024417bbf73f3e263d6d9c064521397808453/Vectorfont/vectorfont_snow.ipynb)
+◀  click!
 
 
 ## 그 외 다양한 벡터 디자인
