@@ -8,30 +8,31 @@
 ### 1. 구름 ☁
 > 뭉게뭉게 부풀어오른 구름을 표현
 > 
-[<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>](Vectorfont/vectorfont_cloud.ipynb)
-◀  click!
-
+<img width="30%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>
 
 ### 2. 습도 😓
 > 습도가 높을 때의 끈적거림을 살려 디자인
 > 
-[<img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>](https://github.com/pokmonlove/VectorFont/blob/794e377e98f7f061f18de4b074348bfab06a1f4d/Vectorfont/vectorfont_humidity.ipynb)◀  click!
+<img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>
 
 
 ### 3. 눈 🌨
 > 눈사람과 눈이 동그랗게 쌓인 모습을 표현
 > 
-[<img width="40%" src="https://user-images.githubusercontent.com/70003514/169710348-0159f34f-59a5-45ba-b99c-e0752055e86c.png"/>](https://github.com/pokmonlove/VectorFont/blob/aa7024417bbf73f3e263d6d9c064521397808453/Vectorfont/vectorfont_snow.ipynb)
-◀  click!
+<img width="40%" src="https://user-images.githubusercontent.com/70003514/169710348-0159f34f-59a5-45ba-b99c-e0752055e86c.png"/>
 
 
-## 그 외 다양한 벡터 디자인
-* 자외선
-* 물방울
-* 눈
-* 아지랑이
-* 바람
-* 먼지
+## 디자인 적용 전후 비교
+|기상정보|디자인 적용 전|디자인 적용 후|
+|:------:|:---:|:---:|
+|[구름](Vectorfont/vectorfont_cloud.ipynb)|<img width="35%" src="https://user-images.githubusercontent.com/70003514/169712056-f959a84a-74f0-4081-8e8d-e2a985e3e0bf.png"/>|<img width="35%" src="https://user-images.githubusercontent.com/70003514/169713653-53a63223-46fd-43ce-9a98-44af8ee2a836.png"/>|
+|[자외선](Vectorfont/vectorfont_ray.ipynb)|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169712314-e802c7a3-3fc0-46bf-b0f8-bfdfb6e07672.png"/>|<img width="47%" src="https://user-images.githubusercontent.com/70003514/169713751-62f526ff-df30-4330-ad94-b6dcec87ea71.png"/>|
+|[비](Vectorfont/vectorfont_waterdrop.ipynb)|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169712605-0ef2fc4d-acfe-4ac4-8ed7-efab169dcc8e.png"/>|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169712761-f0dca491-169b-4cf4-aa75-83112a4df3dd.png"/>|
+|[눈](Vectorfont/vectorfont_snow.ipynb)|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169713013-81e95de9-da2d-44af-8600-2a9d9c827223.png"/>|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169712954-e99008a3-acb8-48ec-bfec-a42114f943e9.png"/>|
+|[습도](Vectorfont/vectorfont_humidity.ipynb)|<img width="40%" src="https://user-images.githubusercontent.com/70003514/169713076-7f21a07c-6e92-42f3-991c-9497ccc8cff7.png"/>|<img width="40%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>|
+|[아지랑이](Vectorfont/vectorfont_haze.ipynb)|<img width="60%" src="https://user-images.githubusercontent.com/70003514/169713257-d549df59-4162-4a5b-b81e-388468387ee4.png"/>|<img width="60%" src="https://user-images.githubusercontent.com/70003514/169713237-9ad7e00e-e9cd-4949-bf54-024213d7484c.png"/>|
+|[바람](Vectorfont/vectorfont_wind.ipynb)|<img width="40%" src="https://user-images.githubusercontent.com/70003514/169713411-e4293f62-4f62-4b97-8de8-66c3b5b40342.png"/>|<img width="35%" src="https://user-images.githubusercontent.com/70003514/169713362-b0d6729a-9508-430e-b331-99d8595f5416.png"/>|
+|[먼지](Vectorfont/vectorfont_dust.ipynb)|<img width="40%" src="https://user-images.githubusercontent.com/70003514/169713479-e6865c2b-b4be-440c-b4ba-219d1a474dbe.png"/>|<img width="37%" src="https://user-images.githubusercontent.com/70003514/169713446-f131e927-289f-447b-9b9c-c4f90f5ac780.png"/>|
 
 ## 폰트 벡터화 및 디자인 과정
 <img width="100%" src="https://user-images.githubusercontent.com/70003514/169249536-c7fe95c8-1c0c-4538-993a-35ef6e5573d7.png"/>
@@ -41,14 +42,14 @@
 ③ 글자를 이루는 각 글리프들의 방향을 알아냅니다. <br>
 ④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br>
 
-## Used Fonts
+## 사용한 폰트
 * [NanumSquareEB.ttf](https://hangeul.naver.com/2021/fonts/nanum)
 * [TmoneyRoundWindExtraBold.ttf](https://www.tmoney.co.kr/aeb/cmnctn/ci/ci.dev)
 
 ## Inspired by 
  [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
 
-[Flat](https://xxyxyz.org/flat) + [Bezmerizing](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화 & 디자인
+[`Flat`](https://xxyxyz.org/flat) + [`Bezmerizing`](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화 & 디자인
 
 ## Authors
 숙명여자대학교 대학원  | MINTLAB | 팀 오토폰트
