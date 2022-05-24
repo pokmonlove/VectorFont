@@ -1,13 +1,11 @@
-
 <h1 align="center"> 
 🌦 날씨에 따른 한글 폰트 윤곽선 벡터 변형 알고리즘
 </h1>
 
-
-
 ## 📕 프로젝트 요약
- <img width="33%" src="https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png"/>
-
+|1️⃣|2️⃣|3️⃣|
+|:---:|:---:|:---:|
+|<img width="100%" src="https://user-images.githubusercontent.com/70003514/170021880-fcd08188-e089-43a6-a66b-bb0e76143595.png"/>|<img width="70%" src="https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png"/>|<img width="100%" src="https://user-images.githubusercontent.com/70003514/170022980-af498ae2-2ee6-4060-b6bf-83e1b7ac237c.png"/>|
 
 ## 📗 프로젝트 배경 및 목적
 * 상황 정보에 따라 바뀔 수 있는 벡터 폰트 기반의 한글 폰트 변형 기술의 개발 필요성
@@ -61,13 +59,42 @@
 <img width="100%" src="https://user-images.githubusercontent.com/70003514/169715064-22a1c8e1-536b-4f28-b26d-c7adc3cefe2f.png"/>
 
  ① 디자인할 글자와 폰트를 불러옵니다.
+<details>
+<summary> 🔍 click! </summary>
+<div markdown="1">
+ 
 ```python
 f = font.open("fonts/font_file_name.ttf")
 ```
+ </div>
+</details>
 
-② 불러온 글자를 벡터화시켜 글리프 묶음으로 변환합니다. <br>
+② 불러온 글자를 벡터화시켜 글리프 묶음으로 변환합니다.
+<details>
+<summary> 🔍 click! </summary>
+<div markdown="1">
+ 
+```python
+def glyphcommands(f, ch):
+    return Path([copy(cmd) for cmd in f.glyph(f.charmap[ord(ch)])])
+
+def advancefor(f, ch):
+    return f.advances[f.charmap[ord(ch)]]
+```
+</div>
+</details>
+
 ③ 글자를 이루는 각 글리프들의 방향을 알아냅니다. <br>
-④ 알아낸 글리프들의 방향에 따라 글리프를 수정하고 디자인을 적용합니다. <br>
+<details>
+<summary>🔍 click</summary>https://github.com/pokmonlove/VectorFont/blob/5eaf1c8b9a342402268939638ea1012ddd1328de/Vectorfont/vectorfont_cloud.ipynb?short_path=01f60ac#L180-L214 </summary>
+<div markdown="1">
+</div>
+</details>
+④ 디테일한 디자인을 위해 글리프를 잘라 재구성합니다. <br>
+⑤ 자른 글리프들을 2차 혹은 3차 베지어 곡선으로 변경합니다. <br>
+⑥ 각 글리프의 방향과 디자인에 따라 글리프의 제어점을 이동시킵니다. <br>
+⑦ 디자인을 적용시킵니다.
+
 
 ## ✅ 사용한 폰트
 * [NanumSquareEB.ttf](https://hangeul.naver.com/2021/fonts/nanum)
@@ -100,12 +127,11 @@ from IPython.display import SVG, displa
 
 [`Flat`](https://xxyxyz.org/flat) + [`Bezmerizing`](https://github.com/aparrish/bezmerizing/) 라이브러리를 이용한 폰트 벡터화 & 디자인
 
-## 💬 Reference
+## 💬 References
 
 ## 👩‍💻 Authors
 숙명여자대학교 대학원  | MINTLAB | 팀 오토폰트
 * [김남희](https://github.com/pokmonlove) | 📧 kelly9455@sookmyung.ac.kr
 * [박동연](https://github.com/DyeonPark) | 📧 yeon0729@sookmyung.ac.kr
 * [조세란](https://github.com/shooshoo0329) | 📧 shooshoo329@sookmyung.ac.kr
-
-
+----
