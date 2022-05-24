@@ -1,8 +1,18 @@
 <h1 align="center"> 
 🌦 날씨에 따른 한글 폰트 윤곽선 벡터 변형 알고리즘
+<br> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/SVG-FFB13B?style=flat&logo=SVG&logoColor=white">
 </h1>
 
+
+
+
+
 ## 📕 프로젝트 요약
+
 |1️⃣|2️⃣|3️⃣|
 |:---:|:---:|:---:|
 |<img width="100%" src="https://user-images.githubusercontent.com/70003514/170021880-fcd08188-e089-43a6-a66b-bb0e76143595.png"/>|<img width="70%" src="https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png"/>|<img width="100%" src="https://user-images.githubusercontent.com/70003514/170022980-af498ae2-2ee6-4060-b6bf-83e1b7ac237c.png"/>|
@@ -25,23 +35,6 @@
 |:---:|:---:|:---:|
 |&nbsp;&nbsp;<img width="90%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>&nbsp;&nbsp;|<img width="50%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>|<img width="60%" src="https://user-images.githubusercontent.com/70003514/169718364-fb2dd368-80ad-48c2-8cfe-40f5a057af89.png"/>|
 | 뭉게뭉게 부풀어오른 구름을 표현|습도가 높을 때의 끈적거림을 표현|눈과 눈사람이 동그랗게 쌓인 모습을 표현|
-
-### 1. 구름 ☁
-> 뭉게뭉게 부풀어오른 구름을 표현
-> 
-<img width="40%" src="https://user-images.githubusercontent.com/70003514/169096899-3d86c146-57d1-45d4-936e-856c9b9d29be.png"/>
-
-### 2. 습도 😓
-> 습도가 높을 때의 끈적거림을 살려 디자인
-
-<img width="30%" src="https://user-images.githubusercontent.com/70003514/169098790-8e14e8f4-03e0-4e89-a741-eae4045ef652.png"/>
-
-
-### 3. 눈 🌨
-> 눈사람과 눈이 동그랗게 쌓인 모습을 표현
-> 
-<img width="40%" src="https://user-images.githubusercontent.com/70003514/169710348-0159f34f-59a5-45ba-b99c-e0752055e86c.png"/>
-
 
 ## 🌤 디자인 적용 전후 비교
 |기상정보|디자인 적용 전|디자인 적용 후|
@@ -108,6 +101,11 @@ import sys
 ```
 
 ## ✅ Module & Packages
+
+<details>
+<summary> 🔍 click! </summary>
+<div markdown="1">
+ 
 ```py
 import math
 import random
@@ -116,11 +114,12 @@ from flat import document, rgb, rgba, font, strike, shape
 from flat.command import moveto, quadto, curveto, lineto, closepath
 from bezmerizing import Polyline, Path
 from numpy.random import uniform, normal, choice
-from numpy.random import uniform, normal, choice
 from copy import copy
 from random import randrange
 from IPython.display import SVG, displa
 ```
+ </div>
+</details>
 
 ## 💘 Inspired by 
  [Allison Parrish](https://www.decontextualize.com/)'s Notebook on [Manipulating Font Data](https://github.com/aparrish/material-of-language/blob/master/manipulating-font-data.ipynb)
