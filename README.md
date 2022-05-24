@@ -17,7 +17,7 @@
 |:---:|:---:|:---:|
 |<img width="100%" src="https://user-images.githubusercontent.com/70003514/170021880-fcd08188-e089-43a6-a66b-bb0e76143595.png"/>|<img width="70%" src="https://user-images.githubusercontent.com/70003514/169716987-2706811a-0a88-4203-97f2-cd66576a757f.png"/>|<img width="100%" src="https://user-images.githubusercontent.com/70003514/170022980-af498ae2-2ee6-4060-b6bf-83e1b7ac237c.png"/>|
 
-<h4 align="center"> 폰트 벡터화와 윤곽선 벡터 변형으로 날씨 폰트를 자동 생성하는 프로젝트입니다 </h4>
+폰트 벡터화를 통해 윤곽선 디자인을 변형하여 다양한 디자인의 날씨 폰트를 생성하는 프로젝트 입니다 :)
 
 ## 📗 프로젝트 배경 및 목적
 * 상황 정보에 따라 바뀔 수 있는 벡터 폰트 기반의 한글 폰트 변형 기술의 개발 필요성
