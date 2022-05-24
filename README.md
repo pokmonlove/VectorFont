@@ -131,7 +131,7 @@ from IPython.display import SVG, displa
 ## 💬 References
 
 ## 👩‍💻 Authors
-숙명여자대학교 대학원  | MINTLAB | 팀 오토폰트
+숙명여자대학교 대학원 IT공학과 | MINTLAB | 팀 오토폰트
 * [김남희](https://github.com/pokmonlove) | 📧 kelly9455@sookmyung.ac.kr
 * [박동연](https://github.com/DyeonPark) | 📧 yeon0729@sookmyung.ac.kr
 * [조세란](https://github.com/shooshoo0329) | 📧 shooshoo329@sookmyung.ac.kr
